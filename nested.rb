@@ -60,10 +60,10 @@ def dennis_ritchies_language
         }
      }
 
-		 s = programmer_hash[:dennis_ritchie][:languages]
-		 
+		
+
 		 puts "--------------"
-		 s
+		  programmer_hash[:dennis_ritchie][:languages]
 		 puts "--------------"
 
 
