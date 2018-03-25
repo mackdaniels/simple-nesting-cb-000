@@ -90,7 +90,7 @@ def adding_matz
         }
      }
 
-		programmer_hash[:yukihiro_matsumoto] = "ruby"
+		programmer_hash[:yukihiro_matsumoto] => "ruby"
 
 end
 
