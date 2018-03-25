@@ -61,7 +61,9 @@ def dennis_ritchies_language
      }
 
 		 s = programmer_hash[:dennis_ritchie][:languages]
-		 s.to_s.chomp
+		 s = s.to_s
+		 puts "--------------"
+	/) { |match|  }
 
 
 end
