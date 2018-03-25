@@ -62,9 +62,7 @@ def dennis_ritchies_language
 
 
 
-		 puts "--------------"
-		  programmer_hash
-		 puts "--------------"
+		 5
 
 
 end
