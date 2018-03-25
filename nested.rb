@@ -129,7 +129,7 @@ def adding_to_dennis
  		{
         :grace_hopper => {
           :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN", "Assembly"]
+          :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
           :known_for => "Object Orientation",
@@ -137,7 +137,7 @@ def adding_to_dennis
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["C"]
+          :languages => ["C", "Assembly"]
         }
      }
 
