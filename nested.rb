@@ -1,3 +1,4 @@
+require 'pry'
 
 def hopper
 	programmer_hash = 
@@ -40,6 +41,7 @@ def alan_kay_is_known_for
 end
 
 def dennis_ritchies_language
+	binding.binding.pry
 	programmer_hash = 
  		{
         :grace_hopper => {
